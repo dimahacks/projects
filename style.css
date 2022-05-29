@@ -1,0 +1,17 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(9, 0, 17);
+    color: rgb(255, 255, 255);
+}
+
+.link-text {
+    color: thistle;
+}
+
+.link-header {
+    color: tomato;
+    float: right;
+    font-size: xx-large;
+}
+
+
